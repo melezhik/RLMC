@@ -1,7 +1,7 @@
 # Russian Language Moscow Club
 
-Russian Lang Moscow Club - is Russian as secondary language courses with
-the best teacher from Moscow and other parts of Russia.
+Russian Language Moscow Club - is Russian as secondary language courses with
+the best teachers from Moscow and all other parts of Russia.
 
 The course will let you:
 
@@ -16,8 +16,7 @@ whether this is grocery store, talking to officials or medical facilities
 
 ## Advanced level
 
-- Prepare for the Russian languages RVP
-
+- Prepare for the Russian languages RVP exam
 
 # Schedule
 
