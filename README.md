@@ -1,6 +1,6 @@
 # Russian Language Moscow Club
 
-Russian Language Moscow Club (RUSLMC (c)) - is Russian as secondary language courses with
+Russian Language Moscow Club - RUSLMC (c) - is Russian as secondary language courses with
 the best teachers from Moscow and all other parts of Russia.
 
 The course will let you:
